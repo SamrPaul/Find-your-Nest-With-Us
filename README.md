@@ -2,7 +2,7 @@
 Welcome to the Homyz repository! Homyz is a full-stack real estate website designed for real estate professionals. It combines a React front-end, Express.js back-end, MongoDB database, and user authentication via Google OAuth. This powerful application helps realtors list and manage properties while providing a seamless user experience for potential buyers.
 
 
-## Features 👻
+## Features :⚙️
 
 - **Property Listings:** Easily list, update, and manage real estate properties, including property details, images, pricing, and location information.
 
@@ -27,7 +27,7 @@ Welcome to the Homyz repository! Homyz is a full-stack real estate website desig
 
 
 
-## Tech Stack 🤩
+## Tech Stack 🔗
 
 **Client:** React, React-Query, ContextAPI, Axios, MaterialUI, Recharts, Leaflet, TailwindCSS, ShadcnUI
 
